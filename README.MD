@@ -12,4 +12,3 @@ This will start cluster of 3 nodes
 
 - [jen20/hashiconf-raft](https://github.com/jen20/hashiconf-raft)
 - [otoolep/hraftd: A reference use of Hashicorp's Raft implementation](https://github.com/otoolep/hraftd)
--
